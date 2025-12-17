@@ -116,7 +116,7 @@
     </ul>
   </section>  <section>
     <h2>Contact</h2>
-    <p><strong>[Your Name]</strong><br />
+    <p><strong>[Ben Baloi]</strong><br />
     Founder & Architect – Universal Digital Civilization Platform<br />
     <a href="mailto: benbaloyi6@gmail.com">your@email.com</a></p>
   </section></main><footer>
