@@ -51,7 +51,7 @@
     <h2>Contact</h2>
     <p><strong>[Ben Baloi]</strong><br />
     Founder & Architect – Universal Digital Civilization Platform<br />
-    <a href="mailto: benbaloyi6@gmail.com">your@email.com</a></p>
+    <a href="mailto: benbaloyi6@gmail.com"></a></p>
   </section></main><footer>
   <p>© Universal Digital Civilization Platform – Public Reference Page</p>
 </footer></body>
